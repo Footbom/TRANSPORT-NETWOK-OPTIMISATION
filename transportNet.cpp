@@ -11,6 +11,8 @@
 
 using namespace std;
 
+class Node; 
+
 class Edge {
 private:
     int id;
