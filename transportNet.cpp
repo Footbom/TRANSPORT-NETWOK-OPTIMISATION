@@ -11,8 +11,6 @@
 
 using namespace std;
 
-class Node; // Forward declaration
-
 class Edge {
 private:
     int id;
